@@ -5,3 +5,6 @@ Gamma Alvarez Mateo
 Respuestas:
 A_ Si los ve alfa
 B_ Si alfa lo sube al repositorio se puede ver el archivo nuevo 
+
+
+E_ La mejor forma de comunicarnos en GitHub es mediante la utilización de los Commits ya que podíamos dejar mensajes  claros sobre los cambios que realizamos en el repositorio.
