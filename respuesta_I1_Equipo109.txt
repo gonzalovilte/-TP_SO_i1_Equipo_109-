@@ -1,0 +1,7 @@
+Participantes :
+Alfa Vilte Gonzalo
+Gamma Alvarez Mateo
+
+Respuestas:
+A_ Si los ve alfa
+B_ Si alfa lo sube al repositorio se puede ver el archivo nuevo 
